@@ -1,0 +1,29 @@
+{
+  "name": "oscars",
+  "version": "0.0.0-alpha",
+  "description": "Academy Award nominees and winners in JSON",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "node build.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gswalden/oscars.git"
+  },
+  "author": "Greg Walden <talk@gsw.nyc>",
+  "license": "ISC",
+  "devDependencies": {
+    "js-yaml": "^3.8.1",
+    "lodash": "^4.17.4"
+  },
+  "keywords": [
+    "oscars",
+    "academy awards",
+    "nominees",
+    "winners"
+  ],
+  "files": [
+    "/*.json"
+  ]
+}

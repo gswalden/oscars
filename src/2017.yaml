@@ -1,0 +1,542 @@
+Best Picture:
+  nominees:
+  - film: Arrival
+    persons:
+    - Shawn Levy
+    - Dan Levine
+    - Aaron Ryder
+    - David Linde
+  - film: Fences
+    persons:
+    - Scott Rudin
+    - Denzel Washington
+    - Todd Black
+  - film: Hacksaw Ridge
+    persons:
+    - Bill Mechanic
+    - David Permut
+  - film: Hell or High Water
+    persons:
+    - Carla Hacken
+    - Julie Yorn
+  - film: Hidden Figures
+    persons:
+    - Donna Gigliotti
+    - Peter Chernin
+    - Jenno Topping
+    - Pharrell Williams
+    - Theodore Melfi
+  - film: La La Land
+    persons:
+    - Fred Berger
+    - Jordan Horowitz
+  - film: Lion
+    persons:
+    - Emile Sherman
+    - Iain Canning
+    - Angie Fielder
+  - film: Manchester by the Sea
+    persons:
+    - Matt Damon
+    - Kimberly Steward
+    - Chris Moore
+    - Lauren Beck
+    - Kevin J. Walsh
+  - film: Moonlight
+    persons:
+    - Adele Romanski
+    - Dede Gardner
+    - Jeremy Kleiner
+
+Actor in a Leading Role:
+  nominees:
+  - film: Manchester by the Sea
+    persons:
+    - Casey Affleck
+  - film: Hacksaw Ridge
+    persons:
+    - Andrew Garfield
+  - film: La La Land
+    persons:
+    - Ryan Gosling
+  - film: Captain Fantastic
+    persons:
+    - Viggo Mortensen
+  - film: Fences
+    persons:
+    - Denzel Washington
+
+Actress in a Leading Role:
+  nominees:
+  - film: Elle
+    persons:
+    - Isabelle Huppert
+  - film: Loving
+    persons:
+    - Ruth Negga
+  - film: Jackie
+    persons:
+    - Natalie Portman
+  - film: La La Land
+    persons:
+    - Emma Stone
+  - film: Florence Foster Jenkins
+    persons:
+    - Meryl Streep
+
+Actor in a Supporting Role:
+  nominees:
+  - film: Moonlight
+    persons:
+    - Mahershala Ali
+  - film: Hell or High Water
+    persons:
+    - Jeff Bridges
+  - film: Manchester by the Sea
+    persons:
+    - Lucas Hedges
+  - film: Lion
+    persons:
+    - Dev Patel
+  - film: Nocturnal Animals
+    persons:
+    - Michael Shannon
+
+Actress in a Supporting Role:
+  nominees:
+  - film: Fences
+    persons:
+    - Viola Davis
+  - film: Moonlight
+    persons:
+    - Naomie Harris
+  - film: Lion
+    persons:
+    - Nicole Kidman
+  - film: Hidden Figures
+    persons:
+    - Octavia Spencer
+  - film: Manchester by the Sea
+    persons:
+    - Michelle Williams
+
+Animated Feature Film:
+  nominees:
+  - film: Kubo and the Two Strings
+    persons:
+    - Travis Knight
+    - Arianne Sutner
+  - film: Moana
+    persons:
+    - John Musker
+    - Ron Clements
+    - Osnat Shurer
+  - film: My Life as a Zucchini
+    persons:
+    - Claude Barras
+    - Max Karli
+  - film: The Red Turtle
+    persons:
+    - Michael Dudok de Wit
+    - Toshio Suzuki
+  - film: Zootopia
+    persons:
+    - Byron Howard
+    - Rich Moore
+    - Clark Spencer
+
+Cinematography:
+  nominees:
+  - film: Arrival
+    persons:
+    - Bradford Young
+  - film: La La Land
+    persons:
+    - Linus Sandgren
+  - film: Lion
+    persons:
+    - Greig Fraser
+  - film: Moonlight
+    persons:
+    - James Laxton
+  - film: Silence
+    persons:
+    - Rodrigo Prieto
+
+Costume Design:
+  nominees:
+  - film: Allied
+    persons:
+    - Joanna Johnston
+  - film: Fantastic Beasts and Where to Find Them
+    persons:
+    - Colleen Atwood
+  - film: Florence Foster Jenkins
+    persons:
+    - Consolata Boyle
+  - film: Jackie
+    persons:
+    - Madeline Fontaine
+  - film: La La Land
+    persons:
+    - Mary Zophres
+
+Directing:
+  nominees:
+  - film: Arrival
+    persons:
+    - Denis Villeneuve
+  - film: Hacksaw Ridge
+    persons:
+    - Mel Gibson
+  - film: La La Land
+    persons:
+    - Damien Chazelle
+  - film: Manchester by the Sea
+    persons:
+    - Kenneth Lonergan
+  - film: Moonlight
+    persons:
+    - Barry Jenkins
+
+Documentary (Feature):
+  nominees:
+  - film: Fire at Sea
+    persons:
+    - Gianfranco Rosi
+    - Donatella Palermo
+  - film: I Am Not Your Negro
+    persons:
+    - Raoul Peck
+    - Rémi Grellety
+    - Hébert Peck
+  - film: Life, Animated
+    persons:
+    - Roger Ross Williams
+    - Julie Goldman
+  - film: 'O.J.: Made in America'
+    persons:
+    - Ezra Edelman
+    - Caroline Waterlow
+  - film: 13th
+    persons:
+    - Ava DuVernay
+    - Spencer Averick
+    - Howard Barish
+
+Documentary (Short Subject):
+  nominees:
+  - film: Extremis
+    nominee:
+    - Dan Krauss
+  - film: 4.1 Miles
+    nominee:
+    - Daphne Matziaraki
+  - film: Joe's Violin
+    nominee:
+    - Kahane Cooperman
+    - Raphaela Neihausen
+  - film: 'Watani: My Homeland'
+    nominee:
+    - Marcel Mettelsiefen
+    - Stephen Ellis
+  - film: The White Helmets
+    nominee:
+    - Orlando von Einsiedel
+    - Joanna Natasegara
+
+Film Editing:
+  nominees:
+  - film: Arrival
+    persons:
+    - Joe Walker
+  - film: Hacksaw Ridge
+    persons:
+    - John Gilbert
+  - film: Hell or High Water
+    persons:
+    - Jake Roberts
+  - film: La La Land
+    persons:
+    - Tom Cross
+  - film: Moonlight
+    persons:
+    - Nat Sanders
+    - Joi McMillon
+
+Foreign Language Film:
+  nominees:
+  - film: Land of Mine
+    persons:
+    - Martin Zandvliet
+    extra: Denmark
+  - film: A Man Called Ove
+    persons:
+    - Hannes Holm
+    extra: Sweden
+  - film: The Salesman
+    persons:
+    - Asghar Farhadi
+    extra: Iran
+  - film: Tanna
+    persons:
+    - Bentley Dean
+    - Martin Butler
+    extra: Australia
+  - film: Toni Erdmann
+    persons:
+    - Maren Ade
+    extra: Germany
+
+Makeup and Hairstyling:
+  nominees:
+  - film: A Man Called Ove
+    persons:
+    - Eva von Bahr
+    - Love Larson
+  - film: Star Trek Beyond
+    persons:
+    - Joel Harlow
+    - Richard Alonzo
+  - film: Suicide Squad
+    persons:
+    - Alessandro Bertolazzi
+    - Giorgio Gregorini
+    - Christopher Nelson
+
+Music (Original Score):
+  nominees:
+  - film: Jackie
+    persons:
+    - Mica Levi
+  - film: La La Land
+    persons:
+    - Justin Hurwitz
+  - film: Lion
+    persons:
+    - Dustin O'Halloran
+    - Hauschka
+  - film: Moonlight
+    persons:
+    - Nicholas Britell
+  - film: Passengers
+    persons:
+    - Thomas Newman
+
+Music (Original Song):
+  nominees:
+  - film: La La Land
+    persons:
+    - Justin Hurwitz
+    - Benj Pasek
+    - Justin Paul
+    extra: Audition (The Fools Who Dream)
+  - film: Trolls
+    persons:
+    - Justin Timberlake
+    - Max Martin
+    - Karl Johan Schuster
+    extra: Can't Stop The Feeling
+  - film: La La Land
+    persons:
+    - Justin Hurwitz
+    - Benj Pasek
+    - Justin Paul
+    extra: City of Stars
+  - film: 'Jim: The James Foley Story'
+    persons:
+    - J. Ralph
+    - Sting
+    extra: The Empty Chair
+  - film: Moana
+    persons:
+    - Lin-Manuel Miranda
+    extra: How Far I'll Go
+
+Production Design:
+  nominees:
+  - film: Arrival
+    persons:
+    - Patrice Vermette
+    - Paul Hotte
+  - film: Fantastic Beasts and Where to Find Them
+    persons:
+    - Stuart Craig
+    - Anna Pinnock
+  - film: Hail, Caesar!
+    persons:
+    - Jess Gonchor
+    - Nancy Haigh
+  - film: La La Land
+    persons:
+    - David Wasco
+    - Sandy Reynolds-Wasco
+  - film: Passengers
+    persons:
+    - Guy Hendrix Dyas
+    - Gene Serdena
+
+Short Film (Animated):
+  nominees:
+  - film: Blind Vaysha
+    persons:
+    - Theodore Ushev
+  - film: Borrowed Time
+    persons:
+    - Andrew Coats
+    - Lou Hamou-Lhadj
+  - film: Pear Cider and Cigarettes
+    persons:
+    - Robert Valley
+    - Cara Speller
+  - film: Pearl
+    persons:
+    - Patrick Osborne
+  - film: Piper
+    persons:
+    - Alan Barillaro
+    - Marc Sondheimer
+
+Short Film (Live Action):
+  nominees:
+  - film: Ennemis Intérieurs
+    persons:
+    - Sélim Azzazi
+  - film: La Femme et le TGV
+    persons:
+    - Timo von Gunten
+    - Giacun Caduff
+  - film: Silent Nights
+    persons:
+    - Aske Bang
+    - Kim Magnusson
+  - film: Sing
+    persons:
+    - Kristof Deák
+    - Anna Udvardy
+  - film: Timecode
+    persons:
+    - Juanjo Giménez
+
+Sound Editing:
+  nominees:
+  - film: Arrival
+    persons:
+    - Sylvain Bellemare
+  - film: Deepwater Horizon
+    persons:
+    - Wylie Stateman
+    - Renée Tondelli
+  - film: Hacksaw Ridge
+    persons:
+    - Robert Mackenzie
+    - Andy Wright
+  - film: La La Land
+    persons:
+    - Ai-Ling Lee
+    - Mildred Iatrou Morgan
+  - film: Sully
+    persons:
+    - Alan Robert Murray
+    - Bub Asman
+
+Sound Mixing:
+  nominees:
+  - film: Arrival
+    persons:
+    - Bernard Gariépy Strobl
+    - Claude La Haye
+  - film: Hacksaw Ridge
+    persons:
+    - Kevin O'Connell
+    - Andy Wright
+    - Robert Mackenzie
+    - Peter Grace
+  - film: La La Land
+    persons:
+    - Andy Nelson
+    - Ai-Ling Lee
+    - Steve A. Morrow
+  - film: 'Rogue One: A Star Wars Story'
+    persons:
+    - David Parker
+    - Christopher Scarabosio
+    - Stuart Wilson
+  - film: '13 Hours: The Secret Soldiers of Benghazi'
+    persons:
+    - Greg P. Russell
+    - Gary Summers
+    - Jeffrey J. Haboush
+    - Mac Ruth
+
+Visual Effects:
+  nominees:
+  - film: Deepwater Horizon
+    persons:
+    - Craig Hammack
+    - Jason Snell
+    - Jason Billington
+    - Burt Dalton
+  - film: Doctor Strange
+    persons:
+    - Stephane Ceretti
+    - Richard Bluff
+    - Vincent Cirelli
+    - Paul Corbould
+  - film: The Jungle Book
+    persons:
+    - Robert Legato
+    - Adam Valdez
+    - Andrew R. Jones
+    - Dan Lemmon
+  - film: Kubo and the Two Strings
+    persons:
+    - Steve Emerson
+    - Oliver Jones
+    - Brian McLean
+    - Brad Schiff
+  - film: 'Rogue One: A Star Wars Story'
+    persons:
+    - John Knoll
+    - Mohen Leo
+    - Hal Hickel
+    - Neil Corbould
+
+Writing (Adapted Screenplay):
+  nominees:
+  - film: Arrival
+    persons:
+    - Eric Heisserer
+  - film: Fences
+    persons:
+    - August Wilson
+  - film: Hidden Figures
+    persons:
+    - Allison Schroeder
+    - Theodore Melfi
+  - film: Lion
+    persons:
+    - Luke Davies
+  - film: Moonlight
+    persons:
+    - Barry Jenkins
+    - Tarell Alvin McCraney
+
+Writing (Original Screenplay):
+  nominees:
+  - film: Hell or High Water
+    persons:
+      - Taylor Sheridan
+  - film: La La Land
+    persons:
+      - Damien Chazelle
+  - film: The Lobster
+    persons:
+      - Yorgos Lanthimos
+      - Efthimis Filippou
+  - film: Manchester by the Sea
+    persons:
+      - Kenneth Lonergan
+  - film: 20th Century Women
+    persons:
+      - Mike Mills

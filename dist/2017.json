@@ -1,0 +1,1009 @@
+{
+  "Best Picture": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Shawn Levy",
+        "Dan Levine",
+        "Aaron Ryder",
+        "David Linde"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Fences",
+      "persons": [
+        "Scott Rudin",
+        "Denzel Washington",
+        "Todd Black"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "Bill Mechanic",
+        "David Permut"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hell or High Water",
+      "persons": [
+        "Carla Hacken",
+        "Julie Yorn"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hidden Figures",
+      "persons": [
+        "Donna Gigliotti",
+        "Peter Chernin",
+        "Jenno Topping",
+        "Pharrell Williams",
+        "Theodore Melfi"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Fred Berger",
+        "Jordan Horowitz"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Emile Sherman",
+        "Iain Canning",
+        "Angie Fielder"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Matt Damon",
+        "Kimberly Steward",
+        "Chris Moore",
+        "Lauren Beck",
+        "Kevin J. Walsh"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Adele Romanski",
+        "Dede Gardner",
+        "Jeremy Kleiner"
+      ],
+      "winner": null
+    }
+  ],
+  "Actor in a Leading Role": [
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Casey Affleck"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "Andrew Garfield"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Ryan Gosling"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Captain Fantastic",
+      "persons": [
+        "Viggo Mortensen"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Fences",
+      "persons": [
+        "Denzel Washington"
+      ],
+      "winner": null
+    }
+  ],
+  "Actress in a Leading Role": [
+    {
+      "film": "Elle",
+      "persons": [
+        "Isabelle Huppert"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Loving",
+      "persons": [
+        "Ruth Negga"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Jackie",
+      "persons": [
+        "Natalie Portman"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Emma Stone"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Florence Foster Jenkins",
+      "persons": [
+        "Meryl Streep"
+      ],
+      "winner": null
+    }
+  ],
+  "Actor in a Supporting Role": [
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Mahershala Ali"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hell or High Water",
+      "persons": [
+        "Jeff Bridges"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Lucas Hedges"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Dev Patel"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Nocturnal Animals",
+      "persons": [
+        "Michael Shannon"
+      ],
+      "winner": null
+    }
+  ],
+  "Actress in a Supporting Role": [
+    {
+      "film": "Fences",
+      "persons": [
+        "Viola Davis"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Naomie Harris"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Nicole Kidman"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hidden Figures",
+      "persons": [
+        "Octavia Spencer"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Michelle Williams"
+      ],
+      "winner": null
+    }
+  ],
+  "Animated Feature Film": [
+    {
+      "film": "Kubo and the Two Strings",
+      "persons": [
+        "Travis Knight",
+        "Arianne Sutner"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moana",
+      "persons": [
+        "John Musker",
+        "Ron Clements",
+        "Osnat Shurer"
+      ],
+      "winner": null
+    },
+    {
+      "film": "My Life as a Zucchini",
+      "persons": [
+        "Claude Barras",
+        "Max Karli"
+      ],
+      "winner": null
+    },
+    {
+      "film": "The Red Turtle",
+      "persons": [
+        "Michael Dudok de Wit",
+        "Toshio Suzuki"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Zootopia",
+      "persons": [
+        "Byron Howard",
+        "Rich Moore",
+        "Clark Spencer"
+      ],
+      "winner": null
+    }
+  ],
+  "Cinematography": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Bradford Young"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Linus Sandgren"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Greig Fraser"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "James Laxton"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Silence",
+      "persons": [
+        "Rodrigo Prieto"
+      ],
+      "winner": null
+    }
+  ],
+  "Costume Design": [
+    {
+      "film": "Allied",
+      "persons": [
+        "Joanna Johnston"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Fantastic Beasts and Where to Find Them",
+      "persons": [
+        "Colleen Atwood"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Florence Foster Jenkins",
+      "persons": [
+        "Consolata Boyle"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Jackie",
+      "persons": [
+        "Madeline Fontaine"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Mary Zophres"
+      ],
+      "winner": null
+    }
+  ],
+  "Directing": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Denis Villeneuve"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "Mel Gibson"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Damien Chazelle"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Kenneth Lonergan"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Barry Jenkins"
+      ],
+      "winner": null
+    }
+  ],
+  "Documentary (Feature)": [
+    {
+      "film": "Fire at Sea",
+      "persons": [
+        "Gianfranco Rosi",
+        "Donatella Palermo"
+      ],
+      "winner": null
+    },
+    {
+      "film": "I Am Not Your Negro",
+      "persons": [
+        "Raoul Peck",
+        "Rémi Grellety",
+        "Hébert Peck"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Life, Animated",
+      "persons": [
+        "Roger Ross Williams",
+        "Julie Goldman"
+      ],
+      "winner": null
+    },
+    {
+      "film": "O.J.: Made in America",
+      "persons": [
+        "Ezra Edelman",
+        "Caroline Waterlow"
+      ],
+      "winner": null
+    },
+    {
+      "film": "13th",
+      "persons": [
+        "Ava DuVernay",
+        "Spencer Averick",
+        "Howard Barish"
+      ],
+      "winner": null
+    }
+  ],
+  "Documentary (Short Subject)": [
+    {
+      "film": "Extremis",
+      "nominee": [
+        "Dan Krauss"
+      ],
+      "winner": null
+    },
+    {
+      "film": "4.1 Miles",
+      "nominee": [
+        "Daphne Matziaraki"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Joe's Violin",
+      "nominee": [
+        "Kahane Cooperman",
+        "Raphaela Neihausen"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Watani: My Homeland",
+      "nominee": [
+        "Marcel Mettelsiefen",
+        "Stephen Ellis"
+      ],
+      "winner": null
+    },
+    {
+      "film": "The White Helmets",
+      "nominee": [
+        "Orlando von Einsiedel",
+        "Joanna Natasegara"
+      ],
+      "winner": null
+    }
+  ],
+  "Film Editing": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Joe Walker"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "John Gilbert"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hell or High Water",
+      "persons": [
+        "Jake Roberts"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Tom Cross"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Nat Sanders",
+        "Joi McMillon"
+      ],
+      "winner": null
+    }
+  ],
+  "Foreign Language Film": [
+    {
+      "film": "Land of Mine",
+      "persons": [
+        "Martin Zandvliet"
+      ],
+      "extra": "Denmark",
+      "winner": null
+    },
+    {
+      "film": "A Man Called Ove",
+      "persons": [
+        "Hannes Holm"
+      ],
+      "extra": "Sweden",
+      "winner": null
+    },
+    {
+      "film": "The Salesman",
+      "persons": [
+        "Asghar Farhadi"
+      ],
+      "extra": "Iran",
+      "winner": null
+    },
+    {
+      "film": "Tanna",
+      "persons": [
+        "Bentley Dean",
+        "Martin Butler"
+      ],
+      "extra": "Australia",
+      "winner": null
+    },
+    {
+      "film": "Toni Erdmann",
+      "persons": [
+        "Maren Ade"
+      ],
+      "extra": "Germany",
+      "winner": null
+    }
+  ],
+  "Makeup and Hairstyling": [
+    {
+      "film": "A Man Called Ove",
+      "persons": [
+        "Eva von Bahr",
+        "Love Larson"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Star Trek Beyond",
+      "persons": [
+        "Joel Harlow",
+        "Richard Alonzo"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Suicide Squad",
+      "persons": [
+        "Alessandro Bertolazzi",
+        "Giorgio Gregorini",
+        "Christopher Nelson"
+      ],
+      "winner": null
+    }
+  ],
+  "Music (Original Score)": [
+    {
+      "film": "Jackie",
+      "persons": [
+        "Mica Levi"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Justin Hurwitz"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Dustin O'Halloran",
+        "Hauschka"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Nicholas Britell"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Passengers",
+      "persons": [
+        "Thomas Newman"
+      ],
+      "winner": null
+    }
+  ],
+  "Music (Original Song)": [
+    {
+      "film": "La La Land",
+      "persons": [
+        "Justin Hurwitz",
+        "Benj Pasek",
+        "Justin Paul"
+      ],
+      "extra": "Audition (The Fools Who Dream)",
+      "winner": null
+    },
+    {
+      "film": "Trolls",
+      "persons": [
+        "Justin Timberlake",
+        "Max Martin",
+        "Karl Johan Schuster"
+      ],
+      "extra": "Can't Stop The Feeling",
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Justin Hurwitz",
+        "Benj Pasek",
+        "Justin Paul"
+      ],
+      "extra": "City of Stars",
+      "winner": null
+    },
+    {
+      "film": "Jim: The James Foley Story",
+      "persons": [
+        "J. Ralph",
+        "Sting"
+      ],
+      "extra": "The Empty Chair",
+      "winner": null
+    },
+    {
+      "film": "Moana",
+      "persons": [
+        "Lin-Manuel Miranda"
+      ],
+      "extra": "How Far I'll Go",
+      "winner": null
+    }
+  ],
+  "Production Design": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Patrice Vermette",
+        "Paul Hotte"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Fantastic Beasts and Where to Find Them",
+      "persons": [
+        "Stuart Craig",
+        "Anna Pinnock"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hail, Caesar!",
+      "persons": [
+        "Jess Gonchor",
+        "Nancy Haigh"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "David Wasco",
+        "Sandy Reynolds-Wasco"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Passengers",
+      "persons": [
+        "Guy Hendrix Dyas",
+        "Gene Serdena"
+      ],
+      "winner": null
+    }
+  ],
+  "Short Film (Animated)": [
+    {
+      "film": "Blind Vaysha",
+      "persons": [
+        "Theodore Ushev"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Borrowed Time",
+      "persons": [
+        "Andrew Coats",
+        "Lou Hamou-Lhadj"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Pear Cider and Cigarettes",
+      "persons": [
+        "Robert Valley",
+        "Cara Speller"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Pearl",
+      "persons": [
+        "Patrick Osborne"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Piper",
+      "persons": [
+        "Alan Barillaro",
+        "Marc Sondheimer"
+      ],
+      "winner": null
+    }
+  ],
+  "Short Film (Live Action)": [
+    {
+      "film": "Ennemis Intérieurs",
+      "persons": [
+        "Sélim Azzazi"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La Femme et le TGV",
+      "persons": [
+        "Timo von Gunten",
+        "Giacun Caduff"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Silent Nights",
+      "persons": [
+        "Aske Bang",
+        "Kim Magnusson"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Sing",
+      "persons": [
+        "Kristof Deák",
+        "Anna Udvardy"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Timecode",
+      "persons": [
+        "Juanjo Giménez"
+      ],
+      "winner": null
+    }
+  ],
+  "Sound Editing": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Sylvain Bellemare"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Deepwater Horizon",
+      "persons": [
+        "Wylie Stateman",
+        "Renée Tondelli"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "Robert Mackenzie",
+        "Andy Wright"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Ai-Ling Lee",
+        "Mildred Iatrou Morgan"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Sully",
+      "persons": [
+        "Alan Robert Murray",
+        "Bub Asman"
+      ],
+      "winner": null
+    }
+  ],
+  "Sound Mixing": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Bernard Gariépy Strobl",
+        "Claude La Haye"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hacksaw Ridge",
+      "persons": [
+        "Kevin O'Connell",
+        "Andy Wright",
+        "Robert Mackenzie",
+        "Peter Grace"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Andy Nelson",
+        "Ai-Ling Lee",
+        "Steve A. Morrow"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Rogue One: A Star Wars Story",
+      "persons": [
+        "David Parker",
+        "Christopher Scarabosio",
+        "Stuart Wilson"
+      ],
+      "winner": null
+    },
+    {
+      "film": "13 Hours: The Secret Soldiers of Benghazi",
+      "persons": [
+        "Greg P. Russell",
+        "Gary Summers",
+        "Jeffrey J. Haboush",
+        "Mac Ruth"
+      ],
+      "winner": null
+    }
+  ],
+  "Visual Effects": [
+    {
+      "film": "Deepwater Horizon",
+      "persons": [
+        "Craig Hammack",
+        "Jason Snell",
+        "Jason Billington",
+        "Burt Dalton"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Doctor Strange",
+      "persons": [
+        "Stephane Ceretti",
+        "Richard Bluff",
+        "Vincent Cirelli",
+        "Paul Corbould"
+      ],
+      "winner": null
+    },
+    {
+      "film": "The Jungle Book",
+      "persons": [
+        "Robert Legato",
+        "Adam Valdez",
+        "Andrew R. Jones",
+        "Dan Lemmon"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Kubo and the Two Strings",
+      "persons": [
+        "Steve Emerson",
+        "Oliver Jones",
+        "Brian McLean",
+        "Brad Schiff"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Rogue One: A Star Wars Story",
+      "persons": [
+        "John Knoll",
+        "Mohen Leo",
+        "Hal Hickel",
+        "Neil Corbould"
+      ],
+      "winner": null
+    }
+  ],
+  "Writing (Adapted Screenplay)": [
+    {
+      "film": "Arrival",
+      "persons": [
+        "Eric Heisserer"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Fences",
+      "persons": [
+        "August Wilson"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Hidden Figures",
+      "persons": [
+        "Allison Schroeder",
+        "Theodore Melfi"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Lion",
+      "persons": [
+        "Luke Davies"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Moonlight",
+      "persons": [
+        "Barry Jenkins",
+        "Tarell Alvin McCraney"
+      ],
+      "winner": null
+    }
+  ],
+  "Writing (Original Screenplay)": [
+    {
+      "film": "Hell or High Water",
+      "persons": [
+        "Taylor Sheridan"
+      ],
+      "winner": null
+    },
+    {
+      "film": "La La Land",
+      "persons": [
+        "Damien Chazelle"
+      ],
+      "winner": null
+    },
+    {
+      "film": "The Lobster",
+      "persons": [
+        "Yorgos Lanthimos",
+        "Efthimis Filippou"
+      ],
+      "winner": null
+    },
+    {
+      "film": "Manchester by the Sea",
+      "persons": [
+        "Kenneth Lonergan"
+      ],
+      "winner": null
+    },
+    {
+      "film": "20th Century Women",
+      "persons": [
+        "Mike Mills"
+      ],
+      "winner": null
+    }
+  ]
+}
