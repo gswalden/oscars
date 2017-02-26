@@ -57,7 +57,7 @@ This module exports an Object indexed by Oscar categories. Here is an example:
 }
 ```
 
-If the `winner` property is `null`, no winner has been announced. If it is `true` or `false`, a winner has been anounced and a `nominees` item should have `winner: true`.
+If the `winner` property is `null`, no winner has been announced. If it is `true` or `false`, a winner has been announced and an item should have `winner: true`. See [below](#useful-operations) for an easy way to find the winner.
 
 ### Useful operations
 Using the [lodash](//lodash.com) library, you can easily search/filter/transform this data set.
