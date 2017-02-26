@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "prepublish": "node build.js",
+    "preversion": "npm test",
     "test": "node index.js"
   },
   "repository": {
