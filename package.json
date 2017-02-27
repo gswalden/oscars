@@ -1,6 +1,6 @@
 {
   "name": "oscars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Academy Award nominees and winners in JSON",
   "main": "index.js",
   "scripts": {
