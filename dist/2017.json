@@ -52,7 +52,7 @@
         "Fred Berger",
         "Jordan Horowitz"
       ],
-      "winner": true
+      "winner": false
     },
     {
       "film": "Lion",
@@ -81,7 +81,7 @@
         "Dede Gardner",
         "Jeremy Kleiner"
       ],
-      "winner": false
+      "winner": true
     }
   ],
   "Actor in a Leading Role": [
