@@ -1,4 +1,5 @@
 Best Picture:
+  winner: 5
   nominees:
   - film: Arrival
     persons:
@@ -49,6 +50,7 @@ Best Picture:
     - Jeremy Kleiner
 
 Actor in a Leading Role:
+  winner: 0
   nominees:
   - film: Manchester by the Sea
     persons:
@@ -67,6 +69,7 @@ Actor in a Leading Role:
     - Denzel Washington
 
 Actress in a Leading Role:
+  winner: 3
   nominees:
   - film: Elle
     persons:
@@ -85,6 +88,7 @@ Actress in a Leading Role:
     - Meryl Streep
 
 Actor in a Supporting Role:
+  winner: 0
   nominees:
   - film: Moonlight
     persons:
@@ -103,6 +107,7 @@ Actor in a Supporting Role:
     - Michael Shannon
 
 Actress in a Supporting Role:
+  winner: 0
   nominees:
   - film: Fences
     persons:
@@ -121,6 +126,7 @@ Actress in a Supporting Role:
     - Michelle Williams
 
 Animated Feature Film:
+  winner: 4
   nominees:
   - film: Kubo and the Two Strings
     persons:
@@ -146,6 +152,7 @@ Animated Feature Film:
     - Clark Spencer
 
 Cinematography:
+  winner: 1
   nominees:
   - film: Arrival
     persons:
@@ -164,6 +171,7 @@ Cinematography:
     - Rodrigo Prieto
 
 Costume Design:
+  winner: 1
   nominees:
   - film: Allied
     persons:
@@ -182,6 +190,7 @@ Costume Design:
     - Mary Zophres
 
 Directing:
+  winner: 2
   nominees:
   - film: Arrival
     persons:
@@ -200,6 +209,7 @@ Directing:
     - Barry Jenkins
 
 Documentary (Feature):
+  winner: 3
   nominees:
   - film: Fire at Sea
     persons:
@@ -225,6 +235,7 @@ Documentary (Feature):
     - Howard Barish
 
 Documentary (Short Subject):
+  winner: 4
   nominees:
   - film: Extremis
     nominee:
@@ -246,6 +257,7 @@ Documentary (Short Subject):
     - Joanna Natasegara
 
 Film Editing:
+  winner: 1
   nominees:
   - film: Arrival
     persons:
@@ -265,6 +277,7 @@ Film Editing:
     - Joi McMillon
 
 Foreign Language Film:
+  winner: 2
   nominees:
   - film: Land of Mine
     persons:
@@ -289,6 +302,7 @@ Foreign Language Film:
     extra: Germany
 
 Makeup and Hairstyling:
+  winner: 2
   nominees:
   - film: A Man Called Ove
     persons:
@@ -305,6 +319,7 @@ Makeup and Hairstyling:
     - Christopher Nelson
 
 Music (Original Score):
+  winner: 1
   nominees:
   - film: Jackie
     persons:
@@ -324,6 +339,7 @@ Music (Original Score):
     - Thomas Newman
 
 Music (Original Song):
+  winner: 2
   nominees:
   - film: La La Land
     persons:
@@ -354,6 +370,7 @@ Music (Original Song):
     extra: How Far I'll Go
 
 Production Design:
+  winner: 3
   nominees:
   - film: Arrival
     persons:
@@ -377,6 +394,7 @@ Production Design:
     - Gene Serdena
 
 Short Film (Animated):
+  winner: 4
   nominees:
   - film: Blind Vaysha
     persons:
@@ -398,6 +416,7 @@ Short Film (Animated):
     - Marc Sondheimer
 
 Short Film (Live Action):
+  winner: 3
   nominees:
   - film: Ennemis Intérieurs
     persons:
@@ -419,6 +438,7 @@ Short Film (Live Action):
     - Juanjo Giménez
 
 Sound Editing:
+  winner: 0
   nominees:
   - film: Arrival
     persons:
@@ -441,6 +461,7 @@ Sound Editing:
     - Bub Asman
 
 Sound Mixing:
+  winner: 1
   nominees:
   - film: Arrival
     persons:
@@ -470,6 +491,7 @@ Sound Mixing:
     - Mac Ruth
 
 Visual Effects:
+  winner: 2
   nominees:
   - film: Deepwater Horizon
     persons:
@@ -503,6 +525,7 @@ Visual Effects:
     - Neil Corbould
 
 Writing (Adapted Screenplay):
+  winner: 4
   nominees:
   - film: Arrival
     persons:
@@ -523,6 +546,7 @@ Writing (Adapted Screenplay):
     - Tarell Alvin McCraney
 
 Writing (Original Screenplay):
+  winner: 3
   nominees:
   - film: Hell or High Water
     persons:

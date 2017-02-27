@@ -8,7 +8,7 @@
         "Aaron Ryder",
         "David Linde"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Fences",
@@ -17,7 +17,7 @@
         "Denzel Washington",
         "Todd Black"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hacksaw Ridge",
@@ -25,7 +25,7 @@
         "Bill Mechanic",
         "David Permut"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hell or High Water",
@@ -33,7 +33,7 @@
         "Carla Hacken",
         "Julie Yorn"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hidden Figures",
@@ -44,7 +44,7 @@
         "Pharrell Williams",
         "Theodore Melfi"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
@@ -52,7 +52,7 @@
         "Fred Berger",
         "Jordan Horowitz"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Lion",
@@ -61,7 +61,7 @@
         "Iain Canning",
         "Angie Fielder"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Manchester by the Sea",
@@ -72,7 +72,7 @@
         "Lauren Beck",
         "Kevin J. Walsh"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
@@ -81,7 +81,7 @@
         "Dede Gardner",
         "Jeremy Kleiner"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Actor in a Leading Role": [
@@ -90,35 +90,35 @@
       "persons": [
         "Casey Affleck"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Hacksaw Ridge",
       "persons": [
         "Andrew Garfield"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Ryan Gosling"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Captain Fantastic",
       "persons": [
         "Viggo Mortensen"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Fences",
       "persons": [
         "Denzel Washington"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Actress in a Leading Role": [
@@ -127,35 +127,35 @@
       "persons": [
         "Isabelle Huppert"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Loving",
       "persons": [
         "Ruth Negga"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Jackie",
       "persons": [
         "Natalie Portman"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Emma Stone"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Florence Foster Jenkins",
       "persons": [
         "Meryl Streep"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Actor in a Supporting Role": [
@@ -164,35 +164,35 @@
       "persons": [
         "Mahershala Ali"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Hell or High Water",
       "persons": [
         "Jeff Bridges"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Manchester by the Sea",
       "persons": [
         "Lucas Hedges"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Lion",
       "persons": [
         "Dev Patel"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Nocturnal Animals",
       "persons": [
         "Michael Shannon"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Actress in a Supporting Role": [
@@ -201,35 +201,35 @@
       "persons": [
         "Viola Davis"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Moonlight",
       "persons": [
         "Naomie Harris"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Lion",
       "persons": [
         "Nicole Kidman"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hidden Figures",
       "persons": [
         "Octavia Spencer"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Manchester by the Sea",
       "persons": [
         "Michelle Williams"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Animated Feature Film": [
@@ -239,7 +239,7 @@
         "Travis Knight",
         "Arianne Sutner"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moana",
@@ -248,7 +248,7 @@
         "Ron Clements",
         "Osnat Shurer"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "My Life as a Zucchini",
@@ -256,7 +256,7 @@
         "Claude Barras",
         "Max Karli"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "The Red Turtle",
@@ -264,7 +264,7 @@
         "Michael Dudok de Wit",
         "Toshio Suzuki"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Zootopia",
@@ -273,7 +273,7 @@
         "Rich Moore",
         "Clark Spencer"
       ],
-      "winner": null
+      "winner": true
     }
   ],
   "Cinematography": [
@@ -282,35 +282,35 @@
       "persons": [
         "Bradford Young"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Linus Sandgren"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Lion",
       "persons": [
         "Greig Fraser"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
       "persons": [
         "James Laxton"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Silence",
       "persons": [
         "Rodrigo Prieto"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Costume Design": [
@@ -319,35 +319,35 @@
       "persons": [
         "Joanna Johnston"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Fantastic Beasts and Where to Find Them",
       "persons": [
         "Colleen Atwood"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Florence Foster Jenkins",
       "persons": [
         "Consolata Boyle"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Jackie",
       "persons": [
         "Madeline Fontaine"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Mary Zophres"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Directing": [
@@ -356,35 +356,35 @@
       "persons": [
         "Denis Villeneuve"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hacksaw Ridge",
       "persons": [
         "Mel Gibson"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Damien Chazelle"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Manchester by the Sea",
       "persons": [
         "Kenneth Lonergan"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
       "persons": [
         "Barry Jenkins"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Documentary (Feature)": [
@@ -394,7 +394,7 @@
         "Gianfranco Rosi",
         "Donatella Palermo"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "I Am Not Your Negro",
@@ -403,7 +403,7 @@
         "Rémi Grellety",
         "Hébert Peck"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Life, Animated",
@@ -411,7 +411,7 @@
         "Roger Ross Williams",
         "Julie Goldman"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "O.J.: Made in America",
@@ -419,7 +419,7 @@
         "Ezra Edelman",
         "Caroline Waterlow"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "13th",
@@ -428,7 +428,7 @@
         "Spencer Averick",
         "Howard Barish"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Documentary (Short Subject)": [
@@ -437,14 +437,14 @@
       "nominee": [
         "Dan Krauss"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "4.1 Miles",
       "nominee": [
         "Daphne Matziaraki"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Joe's Violin",
@@ -452,7 +452,7 @@
         "Kahane Cooperman",
         "Raphaela Neihausen"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Watani: My Homeland",
@@ -460,7 +460,7 @@
         "Marcel Mettelsiefen",
         "Stephen Ellis"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "The White Helmets",
@@ -468,7 +468,7 @@
         "Orlando von Einsiedel",
         "Joanna Natasegara"
       ],
-      "winner": null
+      "winner": true
     }
   ],
   "Film Editing": [
@@ -477,28 +477,28 @@
       "persons": [
         "Joe Walker"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hacksaw Ridge",
       "persons": [
         "John Gilbert"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Hell or High Water",
       "persons": [
         "Jake Roberts"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Tom Cross"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
@@ -506,7 +506,7 @@
         "Nat Sanders",
         "Joi McMillon"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Foreign Language Film": [
@@ -516,7 +516,7 @@
         "Martin Zandvliet"
       ],
       "extra": "Denmark",
-      "winner": null
+      "winner": false
     },
     {
       "film": "A Man Called Ove",
@@ -524,7 +524,7 @@
         "Hannes Holm"
       ],
       "extra": "Sweden",
-      "winner": null
+      "winner": false
     },
     {
       "film": "The Salesman",
@@ -532,7 +532,7 @@
         "Asghar Farhadi"
       ],
       "extra": "Iran",
-      "winner": null
+      "winner": true
     },
     {
       "film": "Tanna",
@@ -541,7 +541,7 @@
         "Martin Butler"
       ],
       "extra": "Australia",
-      "winner": null
+      "winner": false
     },
     {
       "film": "Toni Erdmann",
@@ -549,7 +549,7 @@
         "Maren Ade"
       ],
       "extra": "Germany",
-      "winner": null
+      "winner": false
     }
   ],
   "Makeup and Hairstyling": [
@@ -559,7 +559,7 @@
         "Eva von Bahr",
         "Love Larson"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Star Trek Beyond",
@@ -567,7 +567,7 @@
         "Joel Harlow",
         "Richard Alonzo"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Suicide Squad",
@@ -576,7 +576,7 @@
         "Giorgio Gregorini",
         "Christopher Nelson"
       ],
-      "winner": null
+      "winner": true
     }
   ],
   "Music (Original Score)": [
@@ -585,14 +585,14 @@
       "persons": [
         "Mica Levi"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Justin Hurwitz"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Lion",
@@ -600,21 +600,21 @@
         "Dustin O'Halloran",
         "Hauschka"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
       "persons": [
         "Nicholas Britell"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Passengers",
       "persons": [
         "Thomas Newman"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Music (Original Song)": [
@@ -626,7 +626,7 @@
         "Justin Paul"
       ],
       "extra": "Audition (The Fools Who Dream)",
-      "winner": null
+      "winner": false
     },
     {
       "film": "Trolls",
@@ -636,7 +636,7 @@
         "Karl Johan Schuster"
       ],
       "extra": "Can't Stop The Feeling",
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
@@ -646,7 +646,7 @@
         "Justin Paul"
       ],
       "extra": "City of Stars",
-      "winner": null
+      "winner": true
     },
     {
       "film": "Jim: The James Foley Story",
@@ -655,7 +655,7 @@
         "Sting"
       ],
       "extra": "The Empty Chair",
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moana",
@@ -663,7 +663,7 @@
         "Lin-Manuel Miranda"
       ],
       "extra": "How Far I'll Go",
-      "winner": null
+      "winner": false
     }
   ],
   "Production Design": [
@@ -673,7 +673,7 @@
         "Patrice Vermette",
         "Paul Hotte"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Fantastic Beasts and Where to Find Them",
@@ -681,7 +681,7 @@
         "Stuart Craig",
         "Anna Pinnock"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hail, Caesar!",
@@ -689,7 +689,7 @@
         "Jess Gonchor",
         "Nancy Haigh"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
@@ -697,7 +697,7 @@
         "David Wasco",
         "Sandy Reynolds-Wasco"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Passengers",
@@ -705,7 +705,7 @@
         "Guy Hendrix Dyas",
         "Gene Serdena"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Short Film (Animated)": [
@@ -714,7 +714,7 @@
       "persons": [
         "Theodore Ushev"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Borrowed Time",
@@ -722,7 +722,7 @@
         "Andrew Coats",
         "Lou Hamou-Lhadj"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Pear Cider and Cigarettes",
@@ -730,14 +730,14 @@
         "Robert Valley",
         "Cara Speller"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Pearl",
       "persons": [
         "Patrick Osborne"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Piper",
@@ -745,7 +745,7 @@
         "Alan Barillaro",
         "Marc Sondheimer"
       ],
-      "winner": null
+      "winner": true
     }
   ],
   "Short Film (Live Action)": [
@@ -754,7 +754,7 @@
       "persons": [
         "Sélim Azzazi"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La Femme et le TGV",
@@ -762,7 +762,7 @@
         "Timo von Gunten",
         "Giacun Caduff"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Silent Nights",
@@ -770,7 +770,7 @@
         "Aske Bang",
         "Kim Magnusson"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Sing",
@@ -778,14 +778,14 @@
         "Kristof Deák",
         "Anna Udvardy"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Timecode",
       "persons": [
         "Juanjo Giménez"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Sound Editing": [
@@ -794,7 +794,7 @@
       "persons": [
         "Sylvain Bellemare"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Deepwater Horizon",
@@ -802,7 +802,7 @@
         "Wylie Stateman",
         "Renée Tondelli"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hacksaw Ridge",
@@ -810,7 +810,7 @@
         "Robert Mackenzie",
         "Andy Wright"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
@@ -818,7 +818,7 @@
         "Ai-Ling Lee",
         "Mildred Iatrou Morgan"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Sully",
@@ -826,7 +826,7 @@
         "Alan Robert Murray",
         "Bub Asman"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Sound Mixing": [
@@ -836,7 +836,7 @@
         "Bernard Gariépy Strobl",
         "Claude La Haye"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hacksaw Ridge",
@@ -846,7 +846,7 @@
         "Robert Mackenzie",
         "Peter Grace"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "La La Land",
@@ -855,7 +855,7 @@
         "Ai-Ling Lee",
         "Steve A. Morrow"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Rogue One: A Star Wars Story",
@@ -864,7 +864,7 @@
         "Christopher Scarabosio",
         "Stuart Wilson"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "13 Hours: The Secret Soldiers of Benghazi",
@@ -874,7 +874,7 @@
         "Jeffrey J. Haboush",
         "Mac Ruth"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Visual Effects": [
@@ -886,7 +886,7 @@
         "Jason Billington",
         "Burt Dalton"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Doctor Strange",
@@ -896,7 +896,7 @@
         "Vincent Cirelli",
         "Paul Corbould"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "The Jungle Book",
@@ -906,7 +906,7 @@
         "Andrew R. Jones",
         "Dan Lemmon"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Kubo and the Two Strings",
@@ -916,7 +916,7 @@
         "Brian McLean",
         "Brad Schiff"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Rogue One: A Star Wars Story",
@@ -926,7 +926,7 @@
         "Hal Hickel",
         "Neil Corbould"
       ],
-      "winner": null
+      "winner": false
     }
   ],
   "Writing (Adapted Screenplay)": [
@@ -935,14 +935,14 @@
       "persons": [
         "Eric Heisserer"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Fences",
       "persons": [
         "August Wilson"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Hidden Figures",
@@ -950,14 +950,14 @@
         "Allison Schroeder",
         "Theodore Melfi"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Lion",
       "persons": [
         "Luke Davies"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Moonlight",
@@ -965,7 +965,7 @@
         "Barry Jenkins",
         "Tarell Alvin McCraney"
       ],
-      "winner": null
+      "winner": true
     }
   ],
   "Writing (Original Screenplay)": [
@@ -974,14 +974,14 @@
       "persons": [
         "Taylor Sheridan"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "La La Land",
       "persons": [
         "Damien Chazelle"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "The Lobster",
@@ -989,21 +989,21 @@
         "Yorgos Lanthimos",
         "Efthimis Filippou"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Manchester by the Sea",
       "persons": [
         "Kenneth Lonergan"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "20th Century Women",
       "persons": [
         "Mike Mills"
       ],
-      "winner": null
+      "winner": false
     }
   ]
 }

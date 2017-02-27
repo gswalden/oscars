@@ -2,7 +2,7 @@
 [![Build status](https://travis-ci.org/gswalden/oscars.svg?branch=master)](https://travis-ci.org/gswalden/oscars)
 [![Dependencies](https://david-dm.org/gswalden/oscars.svg)](https://david-dm.org/gswalden/oscars)
 
-### 2017 results: `in progress`
+### 2017 results: `complete in v1.0.1`
 
 ### Use
 ```sh
