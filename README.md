@@ -2,7 +2,7 @@
 [![Build status](https://travis-ci.org/gswalden/oscars.svg?branch=master)](https://travis-ci.org/gswalden/oscars)
 [![Dependencies](https://david-dm.org/gswalden/oscars.svg)](https://david-dm.org/gswalden/oscars)
 
-### 2017 results: `complete in v1.0.1`
+### 2017 results: `complete in v1.0.2`
 
 ### Use
 ```sh
@@ -23,35 +23,35 @@ This module exports an Object indexed by Oscar categories. Here is an example:
       "persons": [
         "Mahershala Ali"
       ],
-      "winner": null
+      "winner": true
     },
     {
       "film": "Hell or High Water",
       "persons": [
         "Jeff Bridges"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Manchester by the Sea",
       "persons": [
         "Lucas Hedges"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Lion",
       "persons": [
         "Dev Patel"
       ],
-      "winner": null
+      "winner": false
     },
     {
       "film": "Nocturnal Animals",
       "persons": [
         "Michael Shannon"
       ],
-      "winner": null
+      "winner": false
     }
   ]
 }
